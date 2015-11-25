@@ -3,40 +3,40 @@ Personal Goals
 
 Personal goals made open source.
 
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
+Why? I got lazy since I started work. This is how I'm de-lazying.
 
 # Overarching Goals
 1. Contribute to Open Source
-2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+2. Learn more about mobile development
+3. Learn some ruby
+4. Explore London more
+5. Get back into exercise 
+6. Learn how to use Terminal more
+7. Take more notes 
+8. Take more pictures
+9. Attempt to not let my room turn into a pigsty quite as oftem
+10. Travel more
+11. Get back into baking
 
-# November 00, 2014
+# November 25, 2015
 
-### This Week's Goal: Be Awesome.
+### This Week's (well, 5 days..) Goal: Finish next chapter of iOS course
 
 ## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
-- [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
+- [ ] Finish chapter of iOS course
 
-### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
+### Things I'll Do This Month: December 2015
+- [ ] Start and finish christmas shopping
+- [ ] Restart BBG
+- [ ] Finish the Objective-C part of of the <a href="https://www.udemy.com/the-complete-ios-9-xcode-7-guide-make-20-applications/"> Complete iOS9 Guide</a>
+- [ ] Decide on next years aims
 - [ ] Come up with a new side project
+- [ ] Go Swimming
 
 ### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
+- [ ] Create a mobile app, or finish dissertation app/make it less crap
+- [ ] Start making a website
 
 ### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
+1. Get and play with a Raspberry Pi
+2. Learn Ruby
