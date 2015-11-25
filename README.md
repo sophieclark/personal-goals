@@ -14,7 +14,7 @@ Why? I got lazy since I started work. This is how I'm de-lazying.
 6. Learn how to use Terminal more
 7. Take more notes 
 8. Take more pictures
-9. Attempt to not let my room turn into a pigsty quite as oftem
+9. Attempt to not let my room turn into a pigsty quite as often
 10. Travel more
 11. Get back into baking
 
