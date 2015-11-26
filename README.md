@@ -24,6 +24,7 @@ Why? I got lazy since I started work. This is how I'm de-lazying.
 
 ## Things I'll Do This Week:
 - [ ] Finish chapter of iOS course
+- [ ] Finish code club training
 
 ### Things I'll Do This Month: December 2015
 - [ ] Start and finish christmas shopping
