@@ -34,6 +34,8 @@ Why? I got lazy since I started work. This is how I'm de-lazying.
 - [ ] Decide on next years aims
 - [ ] Come up with a new side project
 - [ ] Go Swimming
+- [ ] Look at making personal themes for github.io site
+- [ ] Start making github.io site
 
 ### Backlog: Side Projects :)
 - [ ] Create a mobile app, or finish dissertation app/make it less crap
