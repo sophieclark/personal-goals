@@ -21,10 +21,12 @@ Why? I got lazy since I started work. This is how I'm de-lazying.
 
 # December 7, 2015
 
-### This Week's Goal: Finish next chapter of iOS course
+### This Week's Goal: Start looking for Objective-C Projects to contribute to
 
 ## Things I'll Do This Week:
-- [ ] 
+- [ ] Finish at least half a chapter of iOS course
+- [ ] Start Christmas Shopping
+- [ ] Finish code club training
 
 ### Things I'll Do This Month: December 2015
 - [ ] Start and finish christmas shopping
@@ -32,7 +34,7 @@ Why? I got lazy since I started work. This is how I'm de-lazying.
 - [ ] Finish the Objective-C part of of the <a href="https://www.udemy.com/the-complete-ios-9-xcode-7-guide-make-20-applications/"> Complete iOS9 Guide</a>
 - [ ] Decide on next years aims
 - [ ] Come up with a new side project
-- [ ] Go Swimming
+- [x] Go Swimming
 - [ ] Look at making personal themes for github.io site
 - [ ] Start making github.io site
 
