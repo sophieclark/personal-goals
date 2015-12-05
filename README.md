@@ -17,15 +17,14 @@ Why? I got lazy since I started work. This is how I'm de-lazying.
 9. Attempt to not let my room turn into a pigsty quite as often
 10. Travel more
 11. Get back into baking
+12. Eventually become an iOS/Mobile developer
 
-# November 25, 2015
+# December 7, 2015
 
-### This Week's (well, 5 days..) Goal: Finish next chapter of iOS course
+### This Week's Goal: Finish next chapter of iOS course
 
 ## Things I'll Do This Week:
-- [ ] Finish chapter of iOS course
-- [ ] Finish code club training
-- [x] Finish research for Grad Project
+- [ ] 
 
 ### Things I'll Do This Month: December 2015
 - [ ] Start and finish christmas shopping
